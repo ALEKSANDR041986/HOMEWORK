@@ -5,9 +5,9 @@
 // a = -3
 
 Console.Clear
-Console.Write( "введите число 1:" );
+Console.Write("введите число 1:");
 int num1 = int.Parse(Console.ReadLine());
-Console.Write( "введите число 2:" );
+Console.Write("введите число 2:");
 int num2 = int.Parse(Console.ReadLine());
 int num2sqr =num1*num2;
 if (num2sqr==num1)
