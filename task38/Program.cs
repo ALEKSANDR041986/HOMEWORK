@@ -4,29 +4,29 @@
 
 //-------- Инициализация
 
-int min = 1;
-int max = 100;
+double min = 1;
+double max = 100;
 Console.Write("Введите размер массива: ");
 int size = int.Parse(Console.ReadLine());
-int[] array = CreateArray(size, min, max);
+double[] array = CreateArray(size, min, max);
 
 // //----------работа
-// PrintArray(array);
-// Console.WriteLine($"Разница между максимальным {maxnum} и минимальным {minnum}  элементов массива составляет {DiffArr(array)}.");
+PrintArray(array);
+Console.WriteLine($"Разница между максимальным и минимальным  элементов массива составляет {DiffArr(array)}.");
 
 //----------Создаем массив
-int[] CreateArray(int size, int min, int max)
+double[] CreateArray(int size, double min, double max)
 {
-    int[] res = new int[size];
-    for (int i = 0; i < size; i++)
+    double[] res = new double[size];
+    for (double i = 0; i < size; i++)
     {
-        res[i] = new Random().Next(min, max + 1);
+        res[i] = new Random().Next(min,max);
     }
     return res;
 }
 
 //--------Печать массива
-void PrintArray(int[] SomeArray)
+void PrintArray(double[] SomeArray)
 {
     Console.Write("[");
     for (int i = 0; i < SomeArray.Length - 1; i++)
@@ -37,10 +37,10 @@ void PrintArray(int[] SomeArray)
 }
 
 //------------разница в массиве
-int DiffArr(int[] SomeArray)
+double DiffArr(double[] SomeArray)
 {
-    int maxnum = SomeArray[0];
-    int minnum = SomeArray[0];
+    double maxnum = SomeArray[0];
+    double minnum = SomeArray[0];
     for (int i = 1; i < SomeArray.Length-1; i++)
     {
         if (SomeArray[i] > maxnum)
@@ -52,15 +52,15 @@ int DiffArr(int[] SomeArray)
             minnum = SomeArray[i];
         }
     }
-    int diff;
+    double diff;
     return maxnum;
     return minnum;
     diff = maxnum - minnum;
 
 }
 
-//----------работа
-PrintArray(array);
-Console.WriteLine($"Разница между максимальным  и минимальным   элементов массива составляет {DiffArr(array)}.");
+// //----------работа
+// PrintArray(array);
+// Console.WriteLine($"Разница между максимальным  и минимальным   элементов массива составляет {DiffArr(array)}.");
 
 
