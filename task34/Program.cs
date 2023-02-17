@@ -5,9 +5,10 @@
 
 //-------------
 //Инициализация
+
 int min = 100;
+Console.Write("Введите максимальное значение: ");
 int max = 999;
-Console.Write("Введите размер массива: ");
 int size = int.Parse(Console.ReadLine());
 int[] arr = Createarray(size, min, max);
 
@@ -19,15 +20,18 @@ Console.WriteLine($"{CountEvenNumber(arr, 100, 999)}.");
 
 //----------
 //Создание массива из 3-значных чисел
-int[] Createarray(int length, int min, int max)
+int[] Createarray(int length, int minValue, int maxValue)
 {
     int[] res = new int[length];
-    for (int i = 0; i < length; i++) res[i] = new Random().Next(min, max + 1);
+    for (int i = 0; i < length; i++)
+    {
+        res[i] = new Random().Next(min, max + 1);
+    }
     return res;
 }
 
 //------------
-// //Вывод массива на печать
+// //Вывод массива на печать6
 void PrintArray(int[] someArray)
 {
     Console.Write("[");
@@ -38,12 +42,12 @@ void PrintArray(int[] someArray)
     Console.WriteLine($"{someArray[someArray.Length - 1]}]");
 }
 
-int CountEvenNumber (int[] someArray, int down, int up)
+int CountEvenNumber(int[] someArray, int down, int up)
 {
     int count = 0;
     for (int i = 0; i <= someArray.Length - 1; i++)
     {
-        if (someArray [i] % 2  == 0 )
+        if (someArray[i] % 2 == 0)
         {
             count++;
         }
