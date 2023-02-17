@@ -14,7 +14,7 @@ int Prompt(string message)
     return result;
 }
 // метод для определения случайных чисел массива
-int GenerateArray(int Length, int minValue, int maxValue)
+int[] GenerateArray(int Length, int minValue, int maxValue)
 {
     int[] array = new int[Length];   //объявляем массив
     Random random = new Random();
@@ -34,8 +34,8 @@ void PrintArray(int[] array)
     System.Console.Write($"{array[array.Length - 1]}"); //вывод значения массива
     System.Console.WriteLine("]");
 }
-int Length = Prompt("Длина массива ");
+int size = Prompt("Длина массива ");
 int min = Prompt("введите минимальное значение ");
 int max = Prompt("введите максимальное значение ");
-int array = GenerateArray(Length, min, max); //заполнение массива случайными числами 
+int []array = GenerateArray(size, min,max); //заполнение массива случайными числами 
 PrintArray(array); //вывод массива
