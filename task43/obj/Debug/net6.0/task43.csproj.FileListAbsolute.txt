@@ -1,0 +1,15 @@
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task43/bin/Debug/net6.0/task43
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task43/bin/Debug/net6.0/task43.deps.json
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task43/bin/Debug/net6.0/task43.runtimeconfig.json
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task43/bin/Debug/net6.0/task43.dll
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task43/bin/Debug/net6.0/task43.pdb
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task43/obj/Debug/net6.0/task43.csproj.AssemblyReference.cache
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task43/obj/Debug/net6.0/task43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task43/obj/Debug/net6.0/task43.AssemblyInfoInputs.cache
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task43/obj/Debug/net6.0/task43.AssemblyInfo.cs
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task43/obj/Debug/net6.0/task43.csproj.CoreCompileInputs.cache
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task43/obj/Debug/net6.0/task43.dll
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task43/obj/Debug/net6.0/refint/task43.dll
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task43/obj/Debug/net6.0/task43.pdb
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task43/obj/Debug/net6.0/task43.genruntimeconfig.cache
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task43/obj/Debug/net6.0/ref/task43.dll
