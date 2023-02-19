@@ -1,0 +1,15 @@
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task41/bin/Debug/net6.0/task41
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task41/bin/Debug/net6.0/task41.deps.json
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task41/bin/Debug/net6.0/task41.runtimeconfig.json
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task41/bin/Debug/net6.0/task41.dll
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task41/bin/Debug/net6.0/task41.pdb
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task41/obj/Debug/net6.0/task41.csproj.AssemblyReference.cache
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task41/obj/Debug/net6.0/task41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task41/obj/Debug/net6.0/task41.AssemblyInfoInputs.cache
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task41/obj/Debug/net6.0/task41.AssemblyInfo.cs
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task41/obj/Debug/net6.0/task41.csproj.CoreCompileInputs.cache
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task41/obj/Debug/net6.0/task41.dll
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task41/obj/Debug/net6.0/refint/task41.dll
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task41/obj/Debug/net6.0/task41.pdb
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task41/obj/Debug/net6.0/task41.genruntimeconfig.cache
+/Users/Aleksandr/Desktop/GEEK BRAINS/С#/С#1/Homework/HW15.02/task41/obj/Debug/net6.0/ref/task41.dll
