@@ -17,7 +17,7 @@ void NaturalNums(int N, int finish=1)
     }
     else
     {
-        Console.Write(",");
+        Console.Write(" Кирилл ");
         NaturalNums(N-1,finish );
     }
 }
